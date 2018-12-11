@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "244361601713",
+    "firebase_url": "https://sensor-b877b.firebaseio.com",
+    "project_id": "sensor-b877b",
+    "storage_bucket": "sensor-b877b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244361601713:android:14f2940c9d083193",
+        "android_client_info": {
+          "package_name": "io.geeteshk.sensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244361601713-g09u5nufsr86j88p9ebdtr2puitsuiho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.geeteshk.sensor",
+            "certificate_hash": "7bf92f589eccb16c3ce0b3a96c8ad9b601affc64"
+          }
+        },
+        {
+          "client_id": "244361601713-i1silm23ccpavt9h6re6c7358j5g4n7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.geeteshk.sensor",
+            "certificate_hash": "db0ef6c9ed24e1a970fe7db76fc68f6031a89584"
+          }
+        },
+        {
+          "client_id": "244361601713-n46g4oi1p7jgsr7r0jd4ljm42tq0vtul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nRupEjsWOARm2cH_NXBtS-_9RdEmRGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244361601713-n46g4oi1p7jgsr7r0jd4ljm42tq0vtul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
