@@ -1,2 +1,2 @@
 # sensor
-Android application for serial communication 
+Android application for serial communication using BLE(Bluetooth Low Energy) module 
